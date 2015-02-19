@@ -1,0 +1,22 @@
+{
+  "name": "ember-cli-pusher",
+  "author": "Jamie Gilgen and contributors",
+  "license": "MIT",
+  "version": "0.1.1",
+  "description": "Include the Ember Pusher library into an Ember CLI application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "ember-addon": {
+    "main": "index"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ivanvotti/ember-cli-pusher"
+  },
+  "homepage": "https://github.com/ivanvotti/ember-cli-pusher"
+}
